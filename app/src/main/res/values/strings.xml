@@ -1,7 +1,9 @@
 <resources>
     <string name="app_name">atividade_IMC</string>
-    <string name="btncalc"> Calcular </string>
-    <string name="textalt"></string>
+    <string name="btncalc"> Masculino </string>
+    <string name="textalt"> </string>
     <string name="textpeso"> </string>
-    <string name="textresult">  </string>
+    <string name="textresult"> </string>
+    <string name="textresult2"></string>
+    <string name="btncalc2"> Feminino </string>
 </resources>
